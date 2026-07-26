@@ -22,3 +22,11 @@ An end-to-end full-stack AI application featuring an asynchronous **FastAPI** ba
 pip install -r requirements.txt
 python main.py
 ```
+
+### 2. Frontend Application
+
+```bash
+cd frontend
+npm install
+npm start
+```
